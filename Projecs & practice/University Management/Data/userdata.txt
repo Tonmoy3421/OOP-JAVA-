@@ -1,0 +1,18 @@
+Date and Time: 23:02 PM, 18/05/2026
+========================================================
+Name: 4tr
+CGPA: zdzf
+Gender: Male
+Courses: Data Structure
+Today's Topic: GUI
+OOP Principles: wetete
+--------------------------------------------------------
+Date and Time: 23:03 PM, 18/05/2026
+========================================================
+Name: asd
+CGPA: 3
+Gender: Male
+Courses: Data Structure Database Math4 Circuit
+Today's Topic: GUI
+OOP Principles: hello
+--------------------------------------------------------
